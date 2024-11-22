@@ -1,6 +1,6 @@
 {
   "name": "j-toastify",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Here is a beautiful and light toastification for Vue 3.x .",
   "main": "j-toastify.es.js",
   "scripts": {
