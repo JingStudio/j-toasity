@@ -43,7 +43,7 @@ JToastify.alert({
 
 ## APIs
 
-|  Options Key  | Options Value Type  | Options Required | Options Default | Options Selections | Description |
+|  Options Key  | Options Type  | Options Required | Options Default | Options Selections | Description |
 |  ----  | ----  | ----  | ----  | ----  | ----  |
 | message  | String | True | null | ---- | The message will show  |
 | position | String | False | "top-right" | ["top-right", "top-left", "top", "center", "bottom-left", "bottom-right", "bottom"] | The place where the component will show  |
