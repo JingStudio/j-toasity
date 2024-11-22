@@ -12,7 +12,7 @@ npm install j-toastify
 
 1. Base Usage: base usage will auto close and display on the top-right corner of the screen
 ```
-import JToastify from 'j-toastify'
+import { JToastify } from 'j-toastify'
 
 JToastify.alert({
     message: "Here is a notification.",
@@ -23,7 +23,8 @@ JToastify.alert({
 
 2. Full Config Usage
 ```
-import JToastify from 'j-toastify'
+import { JToastify } from 'j-toastify'
+
 JToastify.alert({
     position: "center",      // ["top-right", "top-left", "top", "center", "bottom-left", "bottom-right", "bottom"]
     icon: true,              // Booleans: Show the icon before message or not.
