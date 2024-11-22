@@ -1,0 +1,35 @@
+{
+  "name": "j-toasity",
+  "version": "1.0.0",
+  "main": "j-toasity.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/JingStudio/j-toasity/issues",
+    "email": "jing.w.studio@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingStudio/j-toasity.git"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13"
+  },
+  "homepage": "https://github.com/JingStudio/j-toasity/blob/main/README.md",
+  "keywords": [
+    "toast",
+    "toasity",
+    "toasification",
+    "message",
+    "notify",
+    "notification",
+    "alert",
+    "vue",
+    "vue3",
+    "modal"
+  ],
+  "author": "Jing.Studio",
+  "license": "MIT",
+  "description": "Light and Beautiful notifications for Vue3."
